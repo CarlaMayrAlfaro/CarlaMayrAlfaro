@@ -1,0 +1,20 @@
+{
+  "name": "readmegithub",
+  "version": "1.0.0",
+  "description": "Proyecto README GitHub",
+  "homepage": "https://github.com/CarlaMayrAlfaro/CarlaMayrAlfaro#readme",
+  "bugs": {
+    "url": "https://github.com/CarlaMayrAlfaro/CarlaMayrAlfaro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlaMayrAlfaro/CarlaMayrAlfaro.git"
+  },
+  "license": "ISC",
+  "author": "Carla Mayr",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
