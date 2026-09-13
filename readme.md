@@ -20,7 +20,7 @@ Nutricionista con **+10 años de experiencia**, background en **administración 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías que estoy aprendiendo
 
 **Frontend**
 
@@ -47,27 +47,24 @@ Nutricionista con **+10 años de experiencia**, background en **administración 
 
 | Proyecto | Descripción | Preview |
 |---|---|---|
-| **[Nombre Proyecto 1]** | Breve descripción: qué hace, qué problema resuelve, qué aprendiste. `JavaScript · HTML · CSS` | ![preview](assets/img/proyecto1.png) |
-| | [🚀 Demo](enlace-demo) · [💻 Código](enlace-repo) | |
-| **[Nombre Proyecto 2]** | Breve descripción. `Tecnologías` | ![preview](assets/img/proyecto2.png) |
-| | [🚀 Demo](enlace-demo) · [💻 Código](enlace-repo) | |
-
-> 💡 Tip: si podés orientar uno de tus proyectos hacia nutrición (calculadora de macros, planificador de comidas, tracker de hábitos), es tu diferencial más fuerte frente a otros perfiles trainee.
+| **[ABP_M7CarlaM]** | Aplicación Express + Manillar + PostgreSQL (Sequelize) para gestión de pacientes. Incluye un aterrizaje público, vistas protegidas por sesión de administrador y una API RESTful protegida con JWT , con subida de la foto de perfil del paciente.. `Tecnologías` | ![preview](assets/img/proyecto2.png) |
+| | [🚀 Demo](enlace-demo) · [💻 Código]([enlace-repo](https://github.com/CarlaMayrAlfaro/ABP_M7CarlaM)) |
+| **[Proyecto-Final-m-dulo-2]** | Es una wallet digital que brinda a los usuarios una solución segura y fácil de usar para administrar sus activos financieros de manera digital. La wallet permitirá a los usuarios loguearse, agendar contactos para futuras transferencias, así como realizar movimientos y transacciones
+dentro de la plataforma. `JavaScript · HTML · CSS`· `Boostrap` · `JQuery`  | ![preview](assets/img/proyecto1.png) |
+| | [🚀 Demo]([enlace-demo](http://127.0.0.1:5501/index.html)) · [💻 Código]([enlace-repo](https://github.com/CarlaMayrAlfaro/Proyecto-Final-m-dulo-2)) | |
+ |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CarlaMayrAlfaro&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaMayrAlfaro&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Streak](https://streak-stats.demolab.com/?user=CarlaMayrAlfaro&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🐍 Actividad
+## 💬 En pocas palabras
 
-![snake animation](https://raw.githubusercontent.com/CarlaMayrAlfaro/CarlaMayrAlfaro/output/github-contribution-grid-snake.svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7DF1E&background=00000000&center=true&vCenter=true&width=700&lines=Nutricionista+con+%2B10+a%C3%B1os+de+experiencia;Ahora+programando+en+JavaScript;Uniendo+salud+y+tecnolog%C3%ADa)
 
 ---
 
