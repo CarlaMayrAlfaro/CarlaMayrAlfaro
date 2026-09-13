@@ -48,7 +48,7 @@ Nutricionista con **+10 años de experiencia**, background en **administración 
 | Proyecto | Descripción | Preview |
 |---|---|---|
 | **[ABP_M7CarlaM]** | Aplicación Express + Manillar + PostgreSQL (Sequelize) para gestión de pacientes. Incluye un aterrizaje público, vistas protegidas por sesión de administrador y una API RESTful protegida con JWT , con subida de la foto de perfil del paciente. `PostgresSQL · Node · JWT· Backend · JQuery .JavaScript · HTML · CSS· Boostrap ` | ![preview](assets/img/proyecto2.png) |
-| | [🚀 Demo](enlace-demo) · [💻 Código]([enlace-repo](https://github.com/CarlaMayrAlfaro/ABP_M7CarlaM)) |
+| | [🚀 Demo](enlace-demo) · [💻 Código](https://github.com/CarlaMayrAlfaro/ABP_M7CarlaM) |
 | **[Proyecto-Final-m-dulo-2]** | Es una wallet digital que brinda a los usuarios una solución segura y fácil de usar para administrar sus activos financieros de manera digital. La wallet permitirá a los usuarios loguearse, agendar contactos para futuras transferencias, así como realizar movimientos y transacciones dentro de la plataforma. `JavaScript · HTML · CSS`· `Boostrap` · `JQuery`  | ![preview](assets/img/proyecto1.png) |
 | | [🚀 Demo](http://127.0.0.1:5501/index.html) · [💻 Código](https://github.com/CarlaMayrAlfaro/Proyecto-Final-m-dulo-2) | |
  |
